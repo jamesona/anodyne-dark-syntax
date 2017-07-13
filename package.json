@@ -1,15 +1,15 @@
 {
-  "name": "anodyne-dark-syntax",
+  "name": "anodyne-mint-syntax",
   "theme": "syntax",
-  "version": "0.2.2",
-  "description": "A dark syntax atom theme",
+  "version": "0.0.0",
+  "description": "A minty fork of anodyne-dark-syntax",
   "keywords": [
     "atom",
     "dark",
     "blue",
     "syntax"
   ],
-  "repository": "https://github.com/brandonlilly/anodyne-dark-syntax",
+  "repository": "https://github.com/jamesona/anodyne-mint-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
