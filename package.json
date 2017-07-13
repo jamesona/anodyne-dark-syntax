@@ -1,7 +1,7 @@
 {
   "name": "anodyne-mint-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A minty fork of anodyne-dark-syntax",
   "keywords": [
     "atom",
