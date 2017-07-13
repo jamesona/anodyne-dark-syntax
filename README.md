@@ -1,11 +1,9 @@
-## Anodyne Dark Syntax
+## Anodyne Mint Syntax
 
-Atom editor syntax theme. Fork of atom's [One Dark](https://atom.io/themes/one-dark-syntax).
+Atom editor syntax theme. Fork of [Brandon Lilly's](https://github.com/brandonlilly) [Anodyne Dark Syntax](https://github.com/brandonlilly/anodyne-dark-syntax).
 
-![anoydyne-ss](https://cloud.githubusercontent.com/assets/9450681/12700170/be527932-c794-11e5-931b-a0ad1de51d77.png)
-
-Screenshot uses Anodyne Dark Syntax and [One Dark UI](https://atom.io/themes/one-dark-ui).
+![anoydyne-mint-ss](https://user-images.githubusercontent.com/8997854/28185676-7ff12f0c-67d5-11e7-9d57-fb0dd0febc37.png)
 
 ### Install
 
-Download and add anodyne-dark-syntax folder to your Atom package folder. If atom is already open, press `cmd-alt-ctrl-L` or select __View > Reload__. Navigate to __Settings > Themes__ section and select 'Anodyne Dark' from the __Syntax Themes__ drop-down menu.
+Download and add anodyne-mint-syntax folder to your Atom package folder. If atom is already open, press `cmd-alt-ctrl-L` or select __View > Reload__. Navigate to __Settings > Themes__ section and select 'Anodyne Mint' from the __Syntax Themes__ drop-down menu.
